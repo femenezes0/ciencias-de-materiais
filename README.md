@@ -1,230 +1,317 @@
-1) Itens/dispositivos modernos e materiais utilizados
-a) Baterias de telefone celular
+# Materiais utilizados em dispositivos modernos
+
+## 1) Itens/dispositivos modernos e materiais utilizados
+
+### a) Baterias de telefone celular
 
 As baterias modernas utilizam principalmente compostos de lítio, como óxido de lítio-cobalto (LiCoO₂), grafite e eletrólitos especiais.
 
-Propriedades importantes:
-alta densidade de energia
-boa mobilidade iônica
-recarga eficiente
-baixa massa
-Aplicação prática:
+**Propriedades importantes:**
+
+- Alta densidade de energia
+- Boa mobilidade iônica
+- Recarga eficiente
+- Baixa massa
+
+**Aplicação prática:**
 
 Esses materiais permitem armazenar grande quantidade de energia em pequenos volumes, sendo essenciais para eletrônicos portáteis, veículos elétricos e sistemas industriais.
 
-b) Blocos de motores automotivos
+---
+
+### b) Blocos de motores automotivos
 
 Muitos motores modernos utilizam ligas de alumínio.
 
-Propriedades importantes:
-baixa densidade
-boa resistência mecânica
-elevada condutividade térmica
-resistência à corrosão
-Aplicação prática:
+**Propriedades importantes:**
 
-O alumínio reduz o peso do veículo e melhora a dissipação térmica do motor, aumentando eficiência energética.
+- Baixa densidade
+- Boa resistência mecânica
+- Elevada condutividade térmica
+- Resistência à corrosão
 
-c) Blindagem pessoal militar
+**Aplicação prática:**
 
-Frequentemente utiliza cerâmicas avançadas como carbeto de boro (B₄C) e alumina (Al₂O₃).
+O alumínio reduz o peso do veículo e melhora a dissipação térmica do motor, contribuindo para maior eficiência energética.
 
-Propriedades importantes:
-extrema dureza
-resistência ao desgaste
-baixa densidade
-Aplicação prática:
+---
 
-A elevada dureza fragmenta o projétil e dissipa sua energia.
+### c) Blindagem pessoal militar
 
-d) Aplicação aeronáutica (relação com turbinas)
+Blindagens pessoais podem utilizar cerâmicas avançadas, como carbeto de boro (B₄C) e alumina (Al₂O₃).
 
-Palhetas de turbinas aeronáuticas utilizam superligas metálicas revestidas com materiais como NiCrAlY.
+**Propriedades importantes:**
 
-Propriedades importantes:
-resistência à oxidação
-estabilidade térmica
-resistência mecânica em altas temperaturas
-Aplicação prática:
+- Extrema dureza
+- Resistência ao desgaste
+- Baixa densidade
+- Alta resistência à compressão
 
-O revestimento forma camadas protetoras de alumina:
+**Aplicação prática:**
 
-Al
-2
-	​
+A elevada dureza desses materiais ajuda a fragmentar o projétil e dissipar parte de sua energia, aumentando a proteção.
 
-O
-3
-	​
+---
 
+### d) Aplicação aeronáutica: turbinas
 
-permitindo maior vida útil das turbinas e operação em temperaturas extremas.
+Palhetas de turbinas aeronáuticas utilizam superligas metálicas, muitas vezes protegidas por revestimentos como NiCrAlY.
 
-2) Três itens feitos de materiais cerâmicos
-a) Discos de freio cerâmicos
+**Propriedades importantes:**
 
-Utilizados em veículos esportivos e aeronaves.
+- Resistência à oxidação
+- Estabilidade térmica
+- Resistência mecânica em altas temperaturas
+- Proteção contra corrosão em ambientes severos
 
-Característica:
-resistência térmica elevada
-Aplicação:
+**Aplicação prática:**
 
-Mantêm desempenho mesmo sob intenso atrito e altas temperaturas.
+O revestimento NiCrAlY pode formar uma camada protetora de alumina (Al₂O₃), que funciona como uma barreira passivadora contra oxidação.
 
-b) Tijolos refratários
+Isso aumenta a vida útil das turbinas e permite sua operação em temperaturas extremas.
 
-Produzidos com sílica e alumina.
+---
 
-Característica:
-isolamento térmico
-Aplicação:
+## 2) Três itens feitos de materiais cerâmicos
 
-Usados em fornos industriais e siderúrgicos.
+### a) Discos de freio cerâmicos
 
-c) Pastilhas de corte
+São utilizados em veículos esportivos e aeronaves.
 
-Produzidas com alumina ou carbeto de silício.
+**Característica principal:**
 
-Característica:
-extrema dureza
-Aplicação:
+- Elevada resistência térmica
 
-Usadas em usinagem e fabricação mecânica.
+**Aplicação:**
 
-3) Subcamada eletrônica das terras raras
+Mantêm bom desempenho mesmo sob intenso atrito e altas temperaturas.
 
-Nos lantanídeos, ocorre o preenchimento da subcamada:
+---
 
-4f
+### b) Tijolos refratários
 
-Esses elementos são muito importantes em:
+São produzidos com materiais cerâmicos, como sílica e alumina.
 
-motores elétricos
-ímãs permanentes
-sensores
-eletrônica avançada
-turbinas e aplicações energéticas
-4) Tipo de ligação presente no latão (Cu-Zn)
+**Característica principal:**
+
+- Isolamento térmico
+- Resistência a altas temperaturas
+
+**Aplicação:**
+
+São usados em fornos industriais, siderúrgicos e metalúrgicos.
+
+---
+
+### c) Pastilhas de corte
+
+Podem ser produzidas com alumina, carbeto de silício ou outros materiais cerâmicos.
+
+**Característica principal:**
+
+- Extrema dureza
+- Resistência ao desgaste
+
+**Aplicação:**
+
+São usadas em usinagem e fabricação mecânica para cortar materiais metálicos.
+
+---
+
+## 3) Subcamada eletrônica das terras raras
+
+Nos lantanídeos, ocorre o preenchimento progressivo da subcamada:
+
+**4f**
+
+Esses elementos são importantes em:
+
+- Motores elétricos
+- Ímãs permanentes
+- Sensores
+- Eletrônica avançada
+- Turbinas
+- Aplicações energéticas
+
+As terras raras possuem propriedades magnéticas, ópticas e eletrônicas muito importantes para tecnologias modernas.
+
+---
+
+## 4) Tipo de ligação presente no latão (Cu-Zn)
 
 A resposta correta é:
 
-(B) Ligação metálica
+**(B) Ligação metálica**
 
-Na ligação metálica, os elétrons ficam relativamente livres, formando um “mar de elétrons”.
+O latão é uma liga metálica formada principalmente por cobre (Cu) e zinco (Zn).
 
-Consequências:
-condução elétrica
-ductilidade
-maleabilidade
-condução térmica
+Na ligação metálica, os elétrons ficam relativamente livres, formando um chamado “mar de elétrons”.
+
+**Consequências da ligação metálica:**
+
+- Condução elétrica
+- Condução térmica
+- Ductilidade
+- Maleabilidade
+- Brilho metálico
 
 Esse tipo de ligação é fundamental em:
 
-motores
-fios elétricos
-estruturas metálicas
-componentes industriais
-5) Distribuição eletrônica do Níquel (Z = 28)
+- Motores
+- Fios elétricos
+- Estruturas metálicas
+- Componentes industriais
 
-1s
-2
- 2s
-2
- 2p
-6
- 3s
-2
- 3p
-6
- 3d
-8
- 4s
-2
+---
+
+## 5) Distribuição eletrônica do Níquel (Z = 28)
+
+A distribuição eletrônica do níquel é:
+
+**1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁸ 4s²**
+
+Ou, de forma abreviada:
+
+**[Ar] 3d⁸ 4s²**
 
 O níquel possui importante aplicação industrial devido à:
 
-resistência à corrosão
-estabilidade térmica
-resistência mecânica
+- Resistência à corrosão
+- Estabilidade térmica
+- Resistência mecânica
+- Boa capacidade de formar ligas
 
 É utilizado em:
 
-superligas
-revestimentos
-turbinas
-baterias
-componentes industriais
-6) Tipos de defeitos cristalinos
+- Superligas
+- Revestimentos
+- Turbinas
+- Baterias
+- Componentes industriais
 
-Os defeitos cristalinos são irregularidades na estrutura atômica.
+---
 
-a) Defeitos pontuais
-vacâncias
-intersticiais
-substitucionais
+## 6) Tipos de defeitos cristalinos
 
-Afetam:
+Os defeitos cristalinos são irregularidades na organização dos átomos dentro de uma estrutura cristalina.
 
-difusão
-resistência
-condutividade
-b) Defeitos lineares
+### a) Defeitos pontuais
 
-Chamados de discordâncias.
+Ocorrem em pontos específicos da rede cristalina.
 
-Relacionam-se diretamente à deformação plástica dos metais.
+**Exemplos:**
 
-c) Defeitos planares/interfaciais
-contornos de grão
-superfícies externas
+- Vacâncias
+- Átomos intersticiais
+- Átomos substitucionais
 
-Influenciam:
+**Afetam:**
 
-resistência mecânica
-corrosão
-propagação de trincas
-d) Defeitos volumétricos
-poros
-inclusões
-trincas
+- Difusão
+- Resistência mecânica
+- Condutividade elétrica
+- Propriedades térmicas
 
-Podem causar falhas estruturais graves.
+---
 
-7) Discordâncias
-a) Discordância em cunha (aresta)
+### b) Defeitos lineares
 
-Caracterizada pela presença de um semiplano extra de átomos.
+São chamados de discordâncias.
 
-Aplicação:
+As discordâncias estão diretamente relacionadas à deformação plástica dos metais.
 
-Facilita a deformação plástica dos metais.
+**Afetam:**
 
-b) Discordância helicoidal
+- Ductilidade
+- Resistência mecânica
+- Capacidade do metal se deformar sem romper
 
-Possui deformação em espiral causada por cisalhamento.
+---
 
-Característica:
+### c) Defeitos planares ou interfaciais
+
+Ocorrem em regiões de superfície ou interfaces dentro do material.
+
+**Exemplos:**
+
+- Contornos de grão
+- Superfícies externas
+- Interfaces entre fases
+
+**Influenciam:**
+
+- Resistência mecânica
+- Corrosão
+- Propagação de trincas
+- Tenacidade
+
+---
+
+### d) Defeitos volumétricos
+
+São defeitos maiores, que ocupam um volume dentro do material.
+
+**Exemplos:**
+
+- Poros
+- Inclusões
+- Trincas
+- Vazios
+
+Esses defeitos podem causar falhas estruturais graves.
+
+---
+
+## 7) Discordâncias
+
+As discordâncias são defeitos lineares presentes na estrutura cristalina dos materiais.
+
+Elas são muito importantes porque influenciam diretamente a deformação plástica dos metais.
+
+---
+
+### a) Discordância em cunha ou aresta
+
+É caracterizada pela presença de um semiplano extra de átomos na estrutura cristalina.
+
+**Aplicação:**
+
+Facilita a deformação plástica dos metais, pois permite que camadas atômicas deslizem com menor esforço.
+
+---
+
+### b) Discordância helicoidal
+
+Possui uma deformação em espiral causada por cisalhamento.
+
+**Característica:**
 
 A linha da discordância é paralela ao vetor de Burgers.
 
-c) Discordância mista
+---
 
-Combina características de cunha e helicoidal.
+### c) Discordância mista
 
-Aplicação prática em engenharia
+Combina características da discordância em cunha e da discordância helicoidal.
 
-O controle das discordâncias é essencial em:
+---
 
-superligas aeronáuticas
-turbinas
-componentes mecânicos
-estruturas metálicas
+## Aplicação prática em engenharia
 
-Porque elas influenciam:
+O controle das discordâncias e dos defeitos cristalinos é essencial em:
 
-resistência mecânica
-deformação
-fadiga
-vida útil do material
+- Superligas aeronáuticas
+- Turbinas
+- Componentes mecânicos
+- Estruturas metálicas
+- Materiais submetidos a altas temperaturas
 
-Em turbinas aeronáuticas, por exemplo, controlar defeitos cristalinos e proteger a superfície com revestimentos como NiCrAlY é fundamental para suportar temperaturas extremas e esforços mecânicos intensos.
+Esses defeitos influenciam:
+
+- Resistência mecânica
+- Deformação plástica
+- Fadiga
+- Propagação de trincas
+- Vida útil do material
+
+Em turbinas aeronáuticas, por exemplo, controlar os defeitos cristalinos e proteger a superfície com revestimentos como NiCrAlY é fundamental para suportar temperaturas extremas, esforços mecânicos intensos e ambientes oxidantes.
